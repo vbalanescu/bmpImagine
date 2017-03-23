@@ -1,0 +1,4 @@
+﻿  P19.c
+c:\users\balanescu victor\documents\visual studio 2015\projects\p19\p19\p19.c(17): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+c:\users\balanescu victor\documents\visual studio 2015\projects\p19\p19\p19.c(17): warning C4024: 'fopen': different types for formal and actual parameter 2
+  p19.vcxproj -> c:\users\balanescu victor\documents\visual studio 2015\Projects\p19\Debug\p19.exe
